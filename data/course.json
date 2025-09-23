@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "legacy_uid": "308b48d8-0db1-62c4-0063-1b7790e58312",
+  "instructors": {
+    "content": [
+      "d4aed632-1d79-e8af-bc0d-3931d7954a32",
+      "8fbb4b17-ed6b-e1cb-2a99-61787193a101",
+      "bb66cf9b-09c6-29e2-12a3-1785df4843b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8c3aa887-4a91-9d75-2e0b-787d7c78a7b9",
+    "website": "12-753-geodynamics-seminar-spring-2006"
+  },
+  "course_title": "Geodynamics Seminar",
+  "course_description": "In this year's Geodynamics Seminar, we will explore the depth and breadth of scientific research related to Earth's present and past ice-sheets, glaciers and sea-ice, as well as extraterrestrial planetary ice.\n\nInvited speakers have been chosen from experts in the current frontiers in ice-related research, including planetary ice, climate records from polar and tropical ice cores, the Snowball Earth, subglacial volcanoes, ice rheology, ice sheet modeling, ice microkinetics, glacial erosion and tectonics, subglacial life and polar remote sensing.\n\nA field trip to Iceland in Summer 2006 will allow us to view some of the island's ice caps and glacial geology, the exposed mid Atlantic Ridge and evidence of ice-volcano interactions.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.753",
+  "course_image_thumbnail": {
+    "content": "dd5a8db1-3d2b-c5ca-fdef-1e44f15c47a8",
+    "website": "12-753-geodynamics-seminar-spring-2006"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Projects"
+  ],
+  "site_uid": "4f786ed7-fc12-4e95-bfff-20614ff18f6b",
+  "site_short_id": "12.753-spring-2006",
+  "site_url_path": "courses/12-753-geodynamics-seminar-spring-2006",
+  "title": "Course Metadata"
+}
