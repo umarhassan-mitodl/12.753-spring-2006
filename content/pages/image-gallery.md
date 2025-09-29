@@ -2,13 +2,15 @@
 content_type: page
 description: This section includes a gallery of images from the Summer 2006 field
   trip to Iceland.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery
 uid: c3d972e9-df6f-b026-6b2b-4704032328e4
 ---
 
-More pictures from this trip are available on {{% resource_link "c44030d5-668a-49cc-8113-b970d8eb476b" "the Woods Hole Oceanographic Institution site" %}}.
+More pictures from this trip are available on [the Woods Hole Oceanographic Institution site](https://www.whoi.edu/).
 {{< image-gallery id="c3d972e9-df6f-b026-6b2b-4704032328e4_nanogallery2" baseUrl="/courses/12-753-geodynamics-seminar-spring-2006/" >}}
 {{< image-gallery-item href="d096c8b24ab9818463cfb2950115aac5_2.jpg" data-ngdesc="Two students having a discussion." text="Two students having a discussion." >}}
 {{< image-gallery-item href="675c6a87180c18faa52f9e1754cfdda6_3.jpg" data-ngdesc="Group of students hiking along a boardwalk." text="Group of students hiking along a boardwalk." >}}
