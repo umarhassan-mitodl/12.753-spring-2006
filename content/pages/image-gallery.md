@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes a gallery of images from the Summer 2006 field
   trip to Iceland.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery

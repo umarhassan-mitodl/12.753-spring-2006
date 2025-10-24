@@ -4,8 +4,6 @@ description: This file contains information about Joint Program in Oceanography.
 file: /courses/12-753-geodynamics-seminar-spring-2006/10202826c3aa2a8682ac48bf705bb9af_iceland_trip.pdf
 file_size: 247198
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
