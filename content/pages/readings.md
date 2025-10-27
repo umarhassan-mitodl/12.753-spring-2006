@@ -146,7 +146,7 @@ Thompson, L. G., E. Mosley-Thompson, M. E. Davis, K. A. Henderson, H. H. Brecher
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Byrd Polar Research Center](http://www-bprc.mps.ohio-state.edu/)
+{{% resource_link "a1334f61-9b96-470f-9754-9b2e2c25825b" "Byrd Polar Research Center" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,9 +163,9 @@ Priscu, John C., Christian H. Fritsen, Edward E. Adams, Stephen J. Giovannoni, H
 
 Priscu, John C., Edward E. Adams, W. Berry Lyons, Mary A. Voytek, David W. Mogk, Robert L. Brown, Christopher P. McKay, Cristina D. Takacs, Kathy A.. Welch, Craig F. Wolf, Julie D. Kirshtein, and Recep Avci. "Geomicrobiology of Subglacial Ice Above Lake Vostok, Antarctica." _Science_ 286 (December 10, 1999).
 
-[Priscu Research Group](http://www.montana.edu/lkbonney/)
+{{% resource_link "6d4167ef-b469-40d4-9144-980268ca1987" "Priscu Research Group" %}}
 
-[The McMurdo Dry Valley Lakes Microbial Observatory](http://wiki.creativecommons.org/Montana_State_University_-_McMurdo_Dry_Valley_Lakes_Microbial_Observatory)
+{{% resource_link "55f12338-1f4f-4cc0-b116-bf88eb14225f" "The McMurdo Dry Valley Lakes Microbial Observatory" %}}
 
 
 {{< tdclose >}}
@@ -198,7 +198,7 @@ ACIA: Impacts of a warming Arctic, Arctic Climate Impact Assessment. Cambridge, 
 
 Shuman, C. A., H. J. Zwally, B. E. Schutz, A. C. Brenner, J. P. DiMarzio, V. P. Suchdeo, and H. A. Fricker. "ICESat Antarctic Elevation Data: Preliminary Precision and Accuracy Assessment." _Geophysical Research Letters_ 33 (2006), L07501, doi: 10.1029/2005GL025227.
 
-[USGS Glacier Studies Project](https://www.usgs.gov/centers/whcmsc/science/glacier-studies-project?qt-science_center_objects=0#qt-science_center_objects) Web site.
+{{% resource_link "528203af-e53b-40c7-9f23-0a95879968d3" "USGS Glacier Studies Project" %}} Web site.
 
 Includes URL addresses for many publications related to glaciers. Seven of the 11 Satellite Image Atlas of Glaciers of the World (USGS Professional Paper 1386 A-K) are included as.pdf documents: Antarctica, Greenland, Glaciers of Europe, Glaciers of the Middle East and Africa, Glaciers of Irian Jaya, Indonesia, and New Zealand, Glaciers of South America, and Glaciers of North America \[excluding Alaska (1386-K) which is next to be published\].
 
@@ -209,7 +209,7 @@ Includes URL addresses for many publications related to glaciers. Seven of the 1
 
 ### Recent Relevant Books
 
-Symon, C., lead editor, Arris, L., and Heal, B., eds. [_Arctic Climate Impact Assessment_](https://acia.amap.no/). Cambridge, UK: Cambridge University Press, 2005, p. 1,042.  
+Symon, C., lead editor, Arris, L., and Heal, B., eds. {{% resource_link "5465572f-4ea5-4e39-95ec-2019dd54eadf" "_Arctic Climate Impact Assessment_" %}}. Cambridge, UK: Cambridge University Press, 2005, p. 1,042.  
 \[The science behind the assessment, encapsulated in the summary given above.
 
 Bamber, J. L, and A. J. Payne, eds. _Mass Balance of the Cryosphere. Observations and Modeling of Contemporary and Future Changes._ Cambridge, UK: Cambridge University Press, 2004, p. 644.  
